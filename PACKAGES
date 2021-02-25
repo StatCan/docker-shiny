@@ -45,3 +45,5 @@ ggrepel
 ggthemes
 knitr
 skimr
+circlize
+Cairo
